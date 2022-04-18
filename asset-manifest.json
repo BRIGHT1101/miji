@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/miji/static/css/main.ba44b124.css",
-    "main.js": "/miji/static/js/main.221b0e31.js",
+    "main.css": "/miji/static/css/main.f76b677e.css",
+    "main.js": "/miji/static/js/main.8c5b391c.js",
     "static/js/787.5a234038.chunk.js": "/miji/static/js/787.5a234038.chunk.js",
-    "static/media/DSC03516.JPG": "/miji/static/media/DSC03516.1452b35c4dc8cb4cfc22.JPG",
-    "static/media/01-0112.jpg": "/miji/static/media/01-0112.94899cb227aa43fed1b9.jpg",
+    "static/media/bg.jpg": "/miji/static/media/bg.1452b35c4dc8cb4cfc22.jpg",
+    "static/media/01-0360.jpg": "/miji/static/media/01-0360.5c6a1dc18181692ab72b.jpg",
     "index.html": "/miji/index.html",
-    "main.ba44b124.css.map": "/miji/static/css/main.ba44b124.css.map",
-    "main.221b0e31.js.map": "/miji/static/js/main.221b0e31.js.map",
+    "main.f76b677e.css.map": "/miji/static/css/main.f76b677e.css.map",
+    "main.8c5b391c.js.map": "/miji/static/js/main.8c5b391c.js.map",
     "787.5a234038.chunk.js.map": "/miji/static/js/787.5a234038.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba44b124.css",
-    "static/js/main.221b0e31.js"
+    "static/css/main.f76b677e.css",
+    "static/js/main.8c5b391c.js"
   ]
 }
