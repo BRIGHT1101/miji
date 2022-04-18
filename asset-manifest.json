@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/miji/static/css/main.ba44b124.css",
+    "main.js": "/miji/static/js/main.049029a1.js",
+    "static/js/787.5a234038.chunk.js": "/miji/static/js/787.5a234038.chunk.js",
+    "index.html": "/miji/index.html",
+    "main.ba44b124.css.map": "/miji/static/css/main.ba44b124.css.map",
+    "main.049029a1.js.map": "/miji/static/js/main.049029a1.js.map",
+    "787.5a234038.chunk.js.map": "/miji/static/js/787.5a234038.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba44b124.css",
+    "static/js/main.049029a1.js"
+  ]
+}
